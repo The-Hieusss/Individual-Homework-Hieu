@@ -28,11 +28,11 @@ This is a simple **Q&A CRUD Application** built with **JavaFX** for the graphica
 - Select an answer from the list.
 - Click **"Mark as Accepted"**.
 
-### **5. Mark an question as Resolved:**
+### **5. Mark a question as Resolved:**
 - Select an answer from the list.
 - Click **"Mark as Accepted"**.
 
 
-### **6. Delete an Question:**
+### **6. Delete a question:**
 - Select an answer from the list.
 - Click **"Mark as Accepted"**.
