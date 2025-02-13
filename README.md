@@ -14,25 +14,18 @@ This is a simple **Q&A CRUD Application** built with **JavaFX** for the graphica
 ## Main Functionality
 ### **1. Ask a Question:**
 - Enter your question text and author name.
-- Click **"Ask Question"**.
 
 ### **2. View All Questions:**
 - Questions will be listed in a ListView.
-- Click a question to **view/add answers**.
 
 ### **3. Answer a Question:**
 - Enter your answer and author name.
-- Click **"Submit Answer"**.
 
 ### **4. Mark an Answer as Accepted:**
 - Select an answer from the list.
-- Click **"Mark as Accepted"**.
 
 ### **5. Mark a question as Resolved:**
 - Select an answer from the list.
-- Click **"Mark as Accepted"**.
-
 
 ### **6. Delete a question:**
 - Select an answer from the list.
-- Click **"Mark as Accepted"**.
