@@ -28,9 +28,11 @@ This is a simple **Q&A CRUD Application** built with **JavaFX** for the graphica
 - Select an answer from the list.
 - Click **"Mark as Accepted"**.
 
-### **5. Mark an Answer as Accepted:**
+### **5. Mark an question as Resolved:**
 - Select an answer from the list.
 - Click **"Mark as Accepted"**.
 
 
-
+### **6. Delete an Question:**
+- Select an answer from the list.
+- Click **"Mark as Accepted"**.
