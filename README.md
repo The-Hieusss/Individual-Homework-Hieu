@@ -22,10 +22,10 @@ This is a simple **Q&A CRUD Application** built with **JavaFX** for the graphica
 - Enter your answer and author name.
 
 ### **4. Mark an Answer as Accepted:**
-- Select an answer from the list.
+- Mark an answer as accepted meaning it is good to go.
 
 ### **5. Mark a question as Resolved:**
-- Select an answer from the list.
+- The question has been answered.
 
 ### **6. Delete a question:**
-- Select an answer from the list.
+- Delete an answer from the list.
